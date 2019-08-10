@@ -11,10 +11,10 @@
     * To be consistent and concise we renamed the columns for all the data points
 
 * Load: 
-    * 
-    * 
-    * 
-    * 
-    * 
+    * Mapped out the database using the ERD tool at quickdatabasediagrams.com.
+    * Created the database and tables in Postgres using the schema from the ERD.
+    * Created an engine in Jupyter to connect to the database.
+    * Loaded the dataframes to the tables.
+    * Confirmed the load by running queries on the loaded tables.
 
 
